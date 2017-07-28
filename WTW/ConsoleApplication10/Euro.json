@@ -1,0 +1,33 @@
+﻿[
+  {
+    "Name": "Product 1",
+    "Variety1": 15,
+    "Variety2": 18,
+    "Variety3": 21,
+    "Variety4": 67.5
+  },
+
+  {
+    "Name": "Product 2",
+    "Variety1": 30,
+    "Variety2": 22.5,
+    "Variety3": 36
+   // "Variety4": 0
+  },
+
+  {
+    "Name": "Product 3",
+    "Variety1": 33,
+    "Variety2": 90
+    //"Variety3": 0,
+    //"Variety4": 0
+  },
+
+  {
+    "Name": "Product 4",
+    "Variety1": 42
+    //"Variety2": 0,
+    //"Variety3": 0,
+    //"Variety4": 0
+  }
+]
